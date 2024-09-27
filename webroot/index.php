@@ -1,5 +1,5 @@
 <?php
-  echo "welcome to php on ";
-  echo gethostname();
+  echo "<body style='background-color:yellow'>";
+  echo "hello from " . gethostname();
   echo "<br>";
 ?>
